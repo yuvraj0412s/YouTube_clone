@@ -23,9 +23,7 @@ A responsive YouTube interface clone built with HTML and CSS.
 youtube-clone/
 
 ├── index.html
-
 ├── styles/
-
 │   ├── general.css
 
 │   ├── header.css
