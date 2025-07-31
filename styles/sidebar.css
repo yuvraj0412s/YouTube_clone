@@ -1,0 +1,128 @@
+.sidebar {
+  font-style: Roboto, Arial;
+  font-size: 12px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 55px;
+  background-color: white;
+  width: 72px;
+  z-index: 200;
+  padding-top: 5px;
+}
+
+.button-home,
+.button-explore,
+.button-subscription,
+.button-orignals,
+.button-youtube-music,
+.button-library {
+  height: 74px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.button-home:hover,
+.button-explore:hover,
+.button-subscription:hover,
+.button-orignals:hover,
+.button-youtube-music:hover,
+.button-library:hover{
+  background-color: rgb(234, 234, 234);
+}
+
+.sidebar img{
+  height: 35px;
+  margin-bottom: 5px;
+}
+
+.button-home,
+.button-explore,
+.button-subscription,
+.button-orignals,
+.button-youtube-music,
+.button-library div{
+  font-family: Roboto, Arial;
+  font-size: 10px;
+}
+
+/* 
+.button-home{
+  height: 70px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: yellow;
+}
+
+.icon-home{
+  height: 30px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.button-explore{
+  height: 70px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.icon-explore{
+  height: 30px;
+}
+
+.button-subscription{
+  height: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.icon-subscription{
+  height: 30px;
+}
+
+.button-orignals{
+  height: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.icon-orignals{
+  height: 30px;
+}
+
+.button-youtube-music{
+  height: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.icon-youtube-music{
+  height: 30px;
+}
+
+.button-library{
+  height: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.icon-library{
+  height: 30px;
+} */
