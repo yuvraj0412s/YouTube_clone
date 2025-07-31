@@ -21,15 +21,25 @@ A responsive YouTube interface clone built with HTML and CSS.
 ## Folder Structure
 
 youtube-clone/
+
 ├── index.html (rename your youtube.html to index.html)
+
 ├── styles/
+
 │   ├── general.css
+
 │   ├── header.css
+
 │   ├── sidebar.css
+
 │   └── video.css
+
 ├── icons/ (all your SVG icons)
+
 ├── thumbnails/ (all thumbnail images)
+
 └── channel-pictures/ (all profile pictures)
+
 
 
 ## How to Run
