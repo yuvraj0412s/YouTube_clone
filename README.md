@@ -2,7 +2,7 @@
 
 A responsive YouTube interface clone built with HTML and CSS.
 
-![YouTube Clone Screenshot](Screenshot_Web_Youtube-clone.jpg)
+![YouTube Clone Screenshot](.Screenshot_Web_Youtube-clone.jpg)
 
 ## Features
 
