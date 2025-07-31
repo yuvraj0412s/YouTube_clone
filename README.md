@@ -41,6 +41,10 @@ youtube-clone/
 └── channel-pictures/ (all profile pictures)
 
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Design-3DDC84?style=for-the-badge)
+
 
 ## How to Run
 
@@ -49,3 +53,5 @@ youtube-clone/
 git clone https://github.com/your-username/youtube-clone.git
 cd ...
 open index.html
+
+
