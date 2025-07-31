@@ -22,7 +22,7 @@ A responsive YouTube interface clone built with HTML and CSS.
 
 youtube-clone/
 
-├── index.html (rename your youtube.html to index.html)
+├── index.html
 
 ├── styles/
 
@@ -34,7 +34,7 @@ youtube-clone/
 
 │   └── video.css
 
-├── icons/ (all your SVG icons)
+├── icons/ (all SVG icons)
 
 ├── thumbnails/ (all thumbnail images)
 
